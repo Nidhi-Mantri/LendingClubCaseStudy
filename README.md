@@ -1,5 +1,6 @@
 # LendingClubCaseStudy
-Case Study Assignment 
+Case Study Assignment - By Nidhi Mantri
+
 # Recommendations (Driving variables)
 ### 1. Loan Amount - As loan amount increases, chances of loan getting charged off also rises
 <b>30000+ amounts have 29% chances of gettting charged off </b> <br>
